@@ -1,98 +1,64 @@
 <!doctype html>
 <html lang="pt-BR">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>LC 198/2025 • GCM Paracatu/MG | MCP</title>
-  <link rel="stylesheet" href="./style.css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>MCP • Simulado LC 198/2025</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="top">
-    <div class="brand"><span class="dot"></span><span>MCP</span><small>Materiais Carreiras Policiais</small></div>
-    <div class="top-tag">GCM PARACATU/MG • RETA FINAL 2026</div>
-  </header>
+<header class="top">
+  <div class="brand"><span>MCP</span><small>MATERIAIS CARREIRAS POLICIAIS</small></div>
+  <div class="tag">GCM PARACATU • LC 198/2025</div>
+</header>
 
-  <main class="wrap">
-    <section class="hero">
-      <div class="eyebrow">LEI COMPLEMENTAR Nº 198/2025</div>
-      <h1>REVISÃO BRUTA<br><b>LC 198/2025 — GCM PARACATU/MG</b></h1>
-      <p>Lei comentada • foco de prova • memorize • pegadinhas</p>
-      <div class="hero-actions">
-        <a href="#reta" class="btn primary">⚡ MODO RETA FINAL</a>
-        <a href="#questoes" class="btn">❓ QUESTÕES</a>
-      </div>
-    </section>
+<main class="wrap">
+<section id="home" class="screen">
+  <div class="hero">
+    <span class="eyebrow">REVISÃO BRUTA • CELULAR</span>
+    <h1>SIMULADO<br><b>LC 198/2025</b></h1>
+    <p>Responda as questões sem consultar a lei. Receba a correção imediatamente e refaça somente as que errar.</p>
+    <button class="primary" onclick="start()">COMEÇAR SIMULADO →</button>
+  </div>
+  <div class="stats">
+    <div><b>30</b><span>QUESTÕES</span></div>
+    <div><b>100%</b><span>INTERATIVO</span></div>
+    <div><b>CELULAR</b><span>FOCO NA REVISÃO</span></div>
+  </div>
+</section>
 
-    <section class="stats">
-      <div><strong>90</strong><span>artigos</span></div>
-      <div><strong>09</strong><span>blocos</span></div>
-      <div><strong>40</strong><span>cargos efetivos</span></div>
-      <div><strong>20%</strong><span>reserva feminina</span></div>
-    </section>
+<section id="quiz" class="screen hidden">
+  <div class="quiz-head">
+    <button class="ghost" onclick="goHome()">← Sair</button>
+    <div><b id="counter">QUESTÃO 01/30</b><span id="scoreMini">0 acertos</span></div>
+  </div>
+  <div class="bar"><i id="bar"></i></div>
+  <article class="card">
+    <span class="qnum" id="qnum">QUESTÃO 01</span>
+    <h2 id="question"></h2>
+    <div id="options"></div>
+    <button id="confirm" class="primary wide" onclick="confirmAnswer()" disabled>CONFIRMAR RESPOSTA</button>
+    <div id="feedback" class="feedback hidden"></div>
+    <button id="next" class="next hidden" onclick="nextQuestion()">PRÓXIMA QUESTÃO →</button>
+  </article>
+</section>
 
-    <section id="reta" class="panel">
-      <div class="panel-head">
-        <div><span class="kicker">MODO RETA FINAL</span><h2>Decore o que mais cai</h2></div>
-        <label class="switch"><input id="retaToggle" type="checkbox" checked><span></span> Reta Final</label>
-      </div>
-      <div class="numbers" id="numbers">
-        <div><b>20%</b><span>reserva mínima de vagas para candidatas</span></div>
-        <div><b>30 dias</b><span>prazo da CNH B</span></div>
-        <div><b>80%</b><span>ajuda de custo do Aluno GCM</span></div>
-        <div><b>3 anos</b><span>estágio probatório</span></div>
-        <div><b>60 dias</b><span>antecedência da avaliação final do probatório</span></div>
-        <div><b>5 dias</b><span>recurso voluntário no probatório</span></div>
-        <div><b>5 anos</b><span>promoção, em regra</span></div>
-        <div><b>8%</b><span>acréscimo associado à promoção</span></div>
-        <div><b>730 dias</b><span>período-base da progressão por merecimento</span></div>
-        <div><b>70%</b><span>critério indicado no material para progressão</span></div>
-        <div><b>1%</b><span>acréscimo da progressão</span></div>
-        <div><b>40h</b><span>jornada semanal</span></div>
-        <div><b>2h/dia</b><span>limite indicado para horas extras</span></div>
-        <div><b>50% / 60%</b><span>percentuais de hora extra indicados no material</span></div>
-        <div><b>22h–5h</b><span>período noturno</span></div>
-        <div><b>20%</b><span>adicional de periculosidade</span></div>
-        <div><b>4 anos</b><span>mandato de Corregedor/Ouvidor</span></div>
-        <div><b>10 / 15 / 90</b><span>defesa / parecer / conclusão do processo disciplinar</span></div>
-      </div>
-    </section>
-
-    <section class="panel">
-      <div class="panel-head"><div><span class="kicker">MAPA DA LEI</span><h2>90 artigos em 9 blocos</h2></div></div>
-      <div class="blocks" id="blocks"></div>
-    </section>
-
-    <section class="panel">
-      <div class="panel-head"><div><span class="kicker">ARTIGOS-CHAVE</span><h2>Revisão comentada</h2></div></div>
-      <input id="search" class="search" placeholder="🔎 Buscar artigo, palavra ou número...">
-      <div id="cards" class="cards"></div>
-    </section>
-
-    <section id="questoes" class="panel">
-      <div class="panel-head"><div><span class="kicker">TREINO MCP</span><h2>Questões de fixação</h2><p class="muted">Resolva sem consultar a lei. O banco abaixo reproduz questões do material-base.</p></div></div>
-      <div id="questions" class="questions"></div>
-    </section>
-
-    <section class="panel">
-      <div class="panel-head"><div><span class="kicker">ANEXOS</span><h2>Leitura dirigida</h2></div></div>
-      <div class="table-wrap">
-        <table>
-          <thead><tr><th>Função</th><th>Qtd.</th><th>Gratificação</th><th>Vencimento em comissão</th></tr></thead>
-          <tbody>
-            <tr><td>Comandante</td><td>1</td><td>100%</td><td>R$ 8.500,00</td></tr>
-            <tr><td>Subcomandante</td><td>1</td><td>80%</td><td>R$ 7.000,00</td></tr>
-            <tr><td>Corregedor</td><td>1</td><td>80%</td><td>R$ 7.000,00</td></tr>
-            <tr><td>Inspetor 1ª Classe</td><td>3</td><td>60%</td><td>R$ 5.850,00</td></tr>
-            <tr><td>Inspetor 2ª Classe</td><td>6</td><td>50%</td><td>—</td></tr>
-            <tr><td>Ouvidor</td><td>1</td><td>40%</td><td>R$ 4.500,00</td></tr>
-          </tbody>
-        </table>
-      </div>
-      <div class="notice"><b>Art. 89:</b> o material registra cinco anexos integrantes da lei. A apostila observa a grafia “Anexo IIII” no texto do artigo, enquanto apresenta “ANEXO III” na sequência. <b>Art. 90:</b> vigência na data da publicação; o material indica 23/12/2025.</div>
-    </section>
-
-    <footer>MCP • Materiais Carreiras Policiais • Material independente de estudo — em caso de divergência, prevalece a redação oficial vigente.</footer>
-  </main>
-  <script src="./app.js"></script>
-</body>
-</html>
+<section id="result" class="screen hidden">
+  <div class="hero result">
+    <span class="eyebrow">SIMULADO CONCLUÍDO</span>
+    <h1>SEU<br><b>RESULTADO</b></h1>
+    <div class="bigscore" id="finalScore">0%</div>
+    <p id="finalText"></p>
+  </div>
+  <div class="results-grid">
+    <div><b id="hits">0</b><span>ACERTOS</span></div>
+    <div><b id="misses">0</b><span>ERROS</span></div>
+    <div><b id="answered">30</b><span>RESPONDIDAS</span></div>
+  </div>
+  <button class="primary wide" onclick="reviewErrors()">REFAZER QUESTÕES ERRADAS</button>
+  <button class="secondary wide" onclick="start()">FAZER NOVAMENTE</button>
+  <button class="ghost wide" onclick="goHome()">VOLTAR AO INÍCIO</button>
+</section>
+</main>
+<script src="app.js"></script>
+</body></html>
