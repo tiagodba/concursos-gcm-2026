@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>MCP • Simulado LC 198/2025</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><span>MCP</span><small>MATERIAIS CARREIRAS POLICIAIS</small></div>
+  <div class="tag">GCM PARACATU • LC 198/2025</div>
+</header>
+
+<main class="wrap">
+<section id="home" class="screen">
+  <div class="hero">
+    <span class="eyebrow">REVISÃO BRUTA • CELULAR</span>
+    <h1>SIMULADO<br><b>LC 198/2025</b></h1>
+    <p>Responda as questões sem consultar a lei. Receba a correção imediatamente e refaça somente as que errar.</p>
+    <button class="primary" onclick="start()">COMEÇAR SIMULADO →</button>
+  </div>
+  <div class="stats">
+    <div><b>30</b><span>QUESTÕES</span></div>
+    <div><b>100%</b><span>INTERATIVO</span></div>
+    <div><b>CELULAR</b><span>FOCO NA REVISÃO</span></div>
+  </div>
+</section>
+
+<section id="quiz" class="screen hidden">
+  <div class="quiz-head">
+    <button class="ghost" onclick="goHome()">← Sair</button>
+    <div><b id="counter">QUESTÃO 01/30</b><span id="scoreMini">0 acertos</span></div>
+  </div>
+  <div class="bar"><i id="bar"></i></div>
+  <article class="card">
+    <span class="qnum" id="qnum">QUESTÃO 01</span>
+    <h2 id="question"></h2>
+    <div id="options"></div>
+    <button id="confirm" class="primary wide" onclick="confirmAnswer()" disabled>CONFIRMAR RESPOSTA</button>
+    <div id="feedback" class="feedback hidden"></div>
+    <button id="next" class="next hidden" onclick="nextQuestion()">PRÓXIMA QUESTÃO →</button>
+  </article>
+</section>
+
+<section id="result" class="screen hidden">
+  <div class="hero result">
+    <span class="eyebrow">SIMULADO CONCLUÍDO</span>
+    <h1>SEU<br><b>RESULTADO</b></h1>
+    <div class="bigscore" id="finalScore">0%</div>
+    <p id="finalText"></p>
+  </div>
+  <div class="results-grid">
+    <div><b id="hits">0</b><span>ACERTOS</span></div>
+    <div><b id="misses">0</b><span>ERROS</span></div>
+    <div><b id="answered">30</b><span>RESPONDIDAS</span></div>
+  </div>
+  <button class="primary wide" onclick="reviewErrors()">REFAZER QUESTÕES ERRADAS</button>
+  <button class="secondary wide" onclick="start()">FAZER NOVAMENTE</button>
+  <button class="ghost wide" onclick="goHome()">VOLTAR AO INÍCIO</button>
+</section>
+</main>
+<script src="app.js"></script>
+</body></html>
