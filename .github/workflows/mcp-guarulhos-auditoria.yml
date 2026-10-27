@@ -1,0 +1,40 @@
+name: Auditoria diária MCP Guarulhos
+on:
+  schedule:
+    - cron: '5 11 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'guarulhos-diario/questions.json'
+      - 'guarulhos-diario/scripts/validate.cjs'
+      - '.github/workflows/mcp-guarulhos-auditoria.yml'
+permissions:
+  contents: read
+  issues: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validar questões e lote do dia
+        id: audit
+        continue-on-error: true
+        run: node guarulhos-diario/scripts/validate.cjs --require-today
+      - name: Abrir alerta se houver falha
+        if: steps.audit.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="MCP Guarulhos - lote diário ausente ou inválido"
+          existing=$(gh issue list --state open --search "$title in:title" --json number --jq '.[0].number')
+          if [ -z "$existing" ]; then
+            gh issue create --title "$title" --body "A auditoria das 08h (Brasília) falhou. Confira o log desta execução e publique um lote revisado de 40 questões para a data. Esta rotina **não gera conteúdo** automaticamente."
+          else
+            gh issue comment "$existing" --body "Nova falha de auditoria em $(date -u +%F). Verifique Actions."
+          fi
+      - name: Falhar execução se não houver lote válido
+        if: steps.audit.outcome == 'failure'
+        run: exit 1
