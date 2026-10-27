@@ -1,0 +1,602 @@
+[
+  {
+    "id": "2026-10-27-01",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Na frase 'Embora estivesse chovendo, a ronda continuou', a oração introduzida por 'embora' expressa:",
+    "options": [
+      "concessão",
+      "causa",
+      "conclusão",
+      "finalidade"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. concessão. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-02",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Em 'Faz três anos que estudo', o verbo 'fazer' permanece no singular porque:",
+    "options": [
+      "indica tempo decorrido e é impessoal",
+      "concorda com anos",
+      "é verbo auxiliar",
+      "tem sujeito oculto"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. indica tempo decorrido e é impessoal. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-03",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Em 'Os relatórios que chegaram foram analisados', a oração 'que chegaram' é:",
+    "options": [
+      "adjetiva restritiva",
+      "adjetiva explicativa",
+      "substantiva subjetiva",
+      "adverbial causal"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. adjetiva restritiva. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-04",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Assinale a forma correta segundo a norma-padrão:",
+    "options": [
+      "Havia muitos candidatos.",
+      "Haviam muitos candidatos.",
+      "Fazem dois dias.",
+      "Existia muitas vagas."
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. Havia muitos candidatos.. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-05",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Em 'O agente assistiu à cerimônia', ocorre crase porque:",
+    "options": [
+      "o verbo exige 'a' e o nome admite artigo 'a'",
+      "todo verbo exige crase",
+      "cerimônia é verbo",
+      "a preposição é facultativa"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. o verbo exige 'a' e o nome admite artigo 'a'. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-06",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Na frase 'O relatório foi elaborado pela equipe', a voz verbal é:",
+    "options": [
+      "passiva analítica",
+      "ativa",
+      "reflexiva",
+      "passiva sintética"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. passiva analítica. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-07",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "O termo 'às normas' em 'respeito às normas' exerce a função de:",
+    "options": [
+      "complemento nominal",
+      "sujeito",
+      "aposto",
+      "vocativo"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. complemento nominal. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-08",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "A substituição de 'porém' por 'portanto' geralmente altera a relação de:",
+    "options": [
+      "oposição para conclusão",
+      "causa para concessão",
+      "adição para condição",
+      "finalidade para causa"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. oposição para conclusão. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-09",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Em 'Precisa-se de agentes', o 'se' funciona como:",
+    "options": [
+      "índice de indeterminação do sujeito",
+      "pronome reflexivo",
+      "partícula apassivadora",
+      "conjunção integrante"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. índice de indeterminação do sujeito. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-10",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Assinale a forma adequada:",
+    "options": [
+      "Os documentos seguem anexos.",
+      "Os documentos seguem anexo.",
+      "As agentes estavam meio cansadas? Não, meia cansadas.",
+      "Há bastantes trabalho."
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. Os documentos seguem anexos.. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-11",
+    "date": "2026-10-27",
+    "subject": "Matemática",
+    "statement": "Uma equipe percorreu 120 km em 3 horas. A velocidade média foi de:",
+    "options": [
+      "40 km/h",
+      "30 km/h",
+      "60 km/h",
+      "360 km/h"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. 40 km/h. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-12",
+    "date": "2026-10-27",
+    "subject": "Matemática",
+    "statement": "Um equipamento de R$ 200 recebeu desconto de 15%. O novo valor é:",
+    "options": [
+      "R$ 170",
+      "R$ 185",
+      "R$ 150",
+      "R$ 230"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. R$ 170. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-13",
+    "date": "2026-10-27",
+    "subject": "Matemática",
+    "statement": "Se 6 agentes atendem 18 ocorrências em certo período, mantendo a produtividade, 10 agentes atenderiam:",
+    "options": [
+      "30",
+      "24",
+      "28",
+      "36"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. 30. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-14",
+    "date": "2026-10-27",
+    "subject": "Matemática",
+    "statement": "A média aritmética de 4, 6, 8 e 10 é:",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "28"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. 7. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-15",
+    "date": "2026-10-27",
+    "subject": "Matemática",
+    "statement": "Em uma turma de 80 alunos, 25% faltaram. Quantos compareceram?",
+    "options": [
+      "60",
+      "20",
+      "40",
+      "65"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. 60. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-16",
+    "date": "2026-10-27",
+    "subject": "Informática",
+    "statement": "Um e-mail que imita um órgão oficial para capturar senhas caracteriza:",
+    "options": [
+      "phishing",
+      "backup",
+      "compactação",
+      "indexação"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. phishing. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-17",
+    "date": "2026-10-27",
+    "subject": "Informática",
+    "statement": "No Windows, a combinação Ctrl+C normalmente serve para:",
+    "options": [
+      "copiar",
+      "colar",
+      "recortar",
+      "renomear"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. copiar. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-18",
+    "date": "2026-10-27",
+    "subject": "Informática",
+    "statement": "Em uma planilha, a fórmula =SOMA(A1:A3) calcula:",
+    "options": [
+      "a soma do intervalo A1 a A3",
+      "a média do intervalo",
+      "o maior valor",
+      "o número de células vazias"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. a soma do intervalo A1 a A3. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-19",
+    "date": "2026-10-27",
+    "subject": "Informática",
+    "statement": "A autenticação multifator busca:",
+    "options": [
+      "adicionar fatores independentes de verificação",
+      "substituir senhas por arquivos",
+      "eliminar a necessidade de proteção",
+      "permitir compartilhamento de credenciais"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. adicionar fatores independentes de verificação. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-20",
+    "date": "2026-10-27",
+    "subject": "Informática",
+    "statement": "Um backup é principalmente uma medida para:",
+    "options": [
+      "recuperar dados em caso de perda",
+      "acelerar o monitor",
+      "substituir antivírus",
+      "aumentar resolução da tela"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. recuperar dados em caso de perda. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-21",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "Ao estudar a Lei Municipal 7.792/2019 para uma prova, a conduta mais segura é:",
+    "options": [
+      "conferir a redação vigente do dispositivo exigido",
+      "presumir que leis federais substituem todas as regras locais",
+      "ignorar alterações legislativas",
+      "usar apenas comentários sem consultar a lei"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. conferir a redação vigente do dispositivo exigido. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-22",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "Uma questão menciona competência de órgão municipal. A resposta deve se fundamentar prioritariamente:",
+    "options": [
+      "na norma municipal aplicável e vigente",
+      "em analogia com qualquer município",
+      "na opinião do servidor",
+      "em regras de empresa privada"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. na norma municipal aplicável e vigente. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-23",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "Uma atribuição funcional descrita em lei municipal deve ser interpretada:",
+    "options": [
+      "conforme o texto legal e seus limites",
+      "como autorização irrestrita",
+      "como dispensa de controles",
+      "como regra superior à Constituição"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. conforme o texto legal e seus limites. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-24",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "Uma alteração posterior modifica artigo de lei municipal. Para prova, deve prevalecer:",
+    "options": [
+      "a redação vigente na data de referência do edital",
+      "necessariamente a redação original",
+      "a versão mais curta",
+      "o texto de uma postagem sem fonte"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. a redação vigente na data de referência do edital. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-25",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "Um decreto regulamentar municipal pode, em regra:",
+    "options": [
+      "detalhar a execução da lei sem contrariá-la",
+      "revogar a Constituição",
+      "criar crimes sem lei",
+      "suprimir direitos fundamentais"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. detalhar a execução da lei sem contrariá-la. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-26",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "Na hierarquia normativa, decreto municipal deve respeitar:",
+    "options": [
+      "a lei e a Constituição",
+      "apenas comunicados internos",
+      "somente costumes",
+      "qualquer decisão informal"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. a lei e a Constituição. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-27",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "A atuação administrativa municipal está sujeita ao princípio da:",
+    "options": [
+      "legalidade",
+      "vontade pessoal irrestrita",
+      "sigilo absoluto de todos os atos",
+      "dispensa de motivação em qualquer caso"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. legalidade. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-28",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "Ao comparar normas municipais sobre estrutura administrativa, é necessário identificar:",
+    "options": [
+      "qual órgão e qual versão normativa são aplicáveis",
+      "somente o título do documento",
+      "a opinião mais compartilhada",
+      "a norma de outro município"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. qual órgão e qual versão normativa são aplicáveis. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-29",
+    "date": "2026-10-27",
+    "subject": "Direito Penal e Processo Penal",
+    "statement": "Segundo o CPP, qualquer do povo poderá prender quem esteja em flagrante delito; as autoridades policiais e seus agentes:",
+    "options": [
+      "deverão fazê-lo",
+      "não poderão fazê-lo",
+      "dependerão de mandado judicial em todos os casos",
+      "só poderão atuar após denúncia"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. deverão fazê-lo. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-30",
+    "date": "2026-10-27",
+    "subject": "Direito Penal e Processo Penal",
+    "statement": "O flagrante próprio abrange quem:",
+    "options": [
+      "está cometendo a infração penal ou acaba de cometê-la",
+      "é encontrado meses depois sem outros elementos",
+      "é apenas suspeito por boato",
+      "é absolvido em sentença definitiva"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. está cometendo a infração penal ou acaba de cometê-la. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-31",
+    "date": "2026-10-27",
+    "subject": "Direito Penal e Processo Penal",
+    "statement": "No crime de concussão, o núcleo típico do art. 316 do CP é:",
+    "options": [
+      "exigir vantagem indevida",
+      "solicitar vantagem indevida",
+      "oferecer vantagem indevida",
+      "prometer vantagem a particular"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. exigir vantagem indevida. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-32",
+    "date": "2026-10-27",
+    "subject": "Direito Penal e Processo Penal",
+    "statement": "Na corrupção passiva (art. 317 do CP), um dos núcleos típicos é:",
+    "options": [
+      "solicitar vantagem indevida",
+      "exigir vantagem indevida como único verbo",
+      "subtrair coisa alheia",
+      "destruir documento particular"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. solicitar vantagem indevida. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-33",
+    "date": "2026-10-27",
+    "subject": "Direito Penal e Processo Penal",
+    "statement": "A cadeia de custódia dos vestígios, conforme o CPP, inicia-se:",
+    "options": [
+      "com a preservação do local de crime ou procedimentos em que se detecte vestígio",
+      "somente no laboratório",
+      "somente na audiência",
+      "após a sentença"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. com a preservação do local de crime ou procedimentos em que se detecte vestígio. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-34",
+    "date": "2026-10-27",
+    "subject": "Legislações especiais",
+    "statement": "O ECA considera criança, em regra, a pessoa:",
+    "options": [
+      "até doze anos de idade incompletos",
+      "até dezoito anos completos",
+      "entre doze e vinte e um anos",
+      "com qualquer idade"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. até doze anos de idade incompletos. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-35",
+    "date": "2026-10-27",
+    "subject": "Legislações especiais",
+    "statement": "Segundo a Lei Maria da Penha, a violência doméstica e familiar contra a mulher pode ser:",
+    "options": [
+      "física, psicológica, sexual, patrimonial ou moral",
+      "somente física",
+      "somente patrimonial",
+      "apenas praticada por desconhecido"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. física, psicológica, sexual, patrimonial ou moral. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-36",
+    "date": "2026-10-27",
+    "subject": "Legislações especiais",
+    "statement": "A Lei de Abuso de Autoridade (13.869/2019) exige, para seus crimes, finalidade específica como:",
+    "options": [
+      "prejudicar outrem ou beneficiar a si ou terceiro, ou agir por mero capricho ou satisfação pessoal",
+      "apenas erro material involuntário",
+      "simples discordância de interpretação jurídica",
+      "qualquer ato administrativo lícito"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. prejudicar outrem ou beneficiar a si ou terceiro, ou agir por mero capricho ou satisfação pessoal. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-37",
+    "date": "2026-10-27",
+    "subject": "Legislações especiais",
+    "statement": "A Lei 13.060/2014 trata principalmente:",
+    "options": [
+      "do uso de instrumentos de menor potencial ofensivo pelos agentes de segurança pública",
+      "de regras de trânsito urbano",
+      "do processo eleitoral",
+      "da organização dos tribunais"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. do uso de instrumentos de menor potencial ofensivo pelos agentes de segurança pública. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-38",
+    "date": "2026-10-27",
+    "subject": "Direito Constitucional",
+    "statement": "O art. 144 da Constituição estabelece que segurança pública é:",
+    "options": [
+      "dever do Estado, direito e responsabilidade de todos",
+      "responsabilidade exclusiva dos municípios",
+      "atividade exclusivamente privada",
+      "dever somente do Poder Judiciário"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. dever do Estado, direito e responsabilidade de todos. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-39",
+    "date": "2026-10-27",
+    "subject": "Direito Constitucional",
+    "statement": "Entre os direitos sociais do art. 6º da Constituição está:",
+    "options": [
+      "educação",
+      "censura prévia",
+      "pena de banimento",
+      "prisão perpétua"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. educação. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-40",
+    "date": "2026-10-27",
+    "subject": "Lei 13.022/2014",
+    "statement": "Segundo a Lei 13.022/2014, as guardas municipais são instituições de caráter:",
+    "options": [
+      "civil, uniformizadas e armadas conforme previsto em lei",
+      "militar federal",
+      "judiciário",
+      "exclusivamente privado"
+    ],
+    "answer": 0,
+    "comment": "Alternativa A. civil, uniformizadas e armadas conforme previsto em lei. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  }
+]
