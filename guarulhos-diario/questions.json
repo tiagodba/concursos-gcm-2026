@@ -11,7 +11,7 @@
       "finalidade"
     ],
     "answer": 0,
-    "comment": "Alternativa A. concessão. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "comment": "concessão..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -20,13 +20,13 @@
     "subject": "Português",
     "statement": "Em 'Faz três anos que estudo', o verbo 'fazer' permanece no singular porque:",
     "options": [
-      "indica tempo decorrido e é impessoal",
       "concorda com anos",
       "é verbo auxiliar",
-      "tem sujeito oculto"
+      "tem sujeito oculto",
+      "indica tempo decorrido e é impessoal"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. indica tempo decorrido e é impessoal. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 3,
+    "comment": "indica tempo decorrido e é impessoal..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -35,13 +35,13 @@
     "subject": "Português",
     "statement": "Em 'Os relatórios que chegaram foram analisados', a oração 'que chegaram' é:",
     "options": [
-      "adjetiva restritiva",
-      "adjetiva explicativa",
       "substantiva subjetiva",
-      "adverbial causal"
+      "adverbial causal",
+      "adjetiva restritiva",
+      "adjetiva explicativa"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. adjetiva restritiva. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 2,
+    "comment": "adjetiva restritiva..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -50,13 +50,13 @@
     "subject": "Português",
     "statement": "Assinale a forma correta segundo a norma-padrão:",
     "options": [
+      "Existia muitas vagas.",
       "Havia muitos candidatos.",
       "Haviam muitos candidatos.",
-      "Fazem dois dias.",
-      "Existia muitas vagas."
+      "Fazem dois dias."
     ],
-    "answer": 0,
-    "comment": "Alternativa A. Havia muitos candidatos.. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 1,
+    "comment": "Havia muitos candidatos...",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -71,7 +71,7 @@
       "a preposição é facultativa"
     ],
     "answer": 0,
-    "comment": "Alternativa A. o verbo exige 'a' e o nome admite artigo 'a'. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "comment": "o verbo exige 'a' e o nome admite artigo 'a'..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -80,13 +80,13 @@
     "subject": "Português",
     "statement": "Na frase 'O relatório foi elaborado pela equipe', a voz verbal é:",
     "options": [
-      "passiva analítica",
       "ativa",
       "reflexiva",
-      "passiva sintética"
+      "passiva sintética",
+      "passiva analítica"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. passiva analítica. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 3,
+    "comment": "passiva analítica..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -95,13 +95,13 @@
     "subject": "Português",
     "statement": "O termo 'às normas' em 'respeito às normas' exerce a função de:",
     "options": [
-      "complemento nominal",
-      "sujeito",
       "aposto",
-      "vocativo"
+      "vocativo",
+      "complemento nominal",
+      "sujeito"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. complemento nominal. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 2,
+    "comment": "complemento nominal..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -110,13 +110,13 @@
     "subject": "Português",
     "statement": "A substituição de 'porém' por 'portanto' geralmente altera a relação de:",
     "options": [
+      "finalidade para causa",
       "oposição para conclusão",
       "causa para concessão",
-      "adição para condição",
-      "finalidade para causa"
+      "adição para condição"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. oposição para conclusão. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 1,
+    "comment": "oposição para conclusão..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -131,7 +131,7 @@
       "conjunção integrante"
     ],
     "answer": 0,
-    "comment": "Alternativa A. índice de indeterminação do sujeito. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "comment": "índice de indeterminação do sujeito..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -146,7 +146,7 @@
       "Há bastantes trabalho."
     ],
     "answer": 0,
-    "comment": "Alternativa A. Os documentos seguem anexos.. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "comment": "Os documentos seguem anexos...",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -155,13 +155,13 @@
     "subject": "Matemática",
     "statement": "Uma equipe percorreu 120 km em 3 horas. A velocidade média foi de:",
     "options": [
-      "40 km/h",
       "30 km/h",
       "60 km/h",
-      "360 km/h"
+      "360 km/h",
+      "40 km/h"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. 40 km/h. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 3,
+    "comment": "40 km/h..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -170,13 +170,13 @@
     "subject": "Matemática",
     "statement": "Um equipamento de R$ 200 recebeu desconto de 15%. O novo valor é:",
     "options": [
-      "R$ 170",
-      "R$ 185",
       "R$ 150",
-      "R$ 230"
+      "R$ 230",
+      "R$ 170",
+      "R$ 185"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. R$ 170. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 2,
+    "comment": "R$ 170..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -185,13 +185,13 @@
     "subject": "Matemática",
     "statement": "Se 6 agentes atendem 18 ocorrências em certo período, mantendo a produtividade, 10 agentes atenderiam:",
     "options": [
+      "36",
       "30",
       "24",
-      "28",
-      "36"
+      "28"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. 30. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 1,
+    "comment": "30..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -206,7 +206,7 @@
       "28"
     ],
     "answer": 0,
-    "comment": "Alternativa A. 7. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "comment": "7..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -215,13 +215,13 @@
     "subject": "Matemática",
     "statement": "Em uma turma de 80 alunos, 25% faltaram. Quantos compareceram?",
     "options": [
-      "60",
       "20",
       "40",
-      "65"
+      "65",
+      "60"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. 60. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 3,
+    "comment": "60..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -230,13 +230,13 @@
     "subject": "Informática",
     "statement": "Um e-mail que imita um órgão oficial para capturar senhas caracteriza:",
     "options": [
-      "phishing",
-      "backup",
       "compactação",
-      "indexação"
+      "indexação",
+      "phishing",
+      "backup"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. phishing. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 2,
+    "comment": "phishing..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -245,13 +245,13 @@
     "subject": "Informática",
     "statement": "No Windows, a combinação Ctrl+C normalmente serve para:",
     "options": [
+      "renomear",
       "copiar",
       "colar",
-      "recortar",
-      "renomear"
+      "recortar"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. copiar. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 1,
+    "comment": "copiar..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -266,7 +266,7 @@
       "o número de células vazias"
     ],
     "answer": 0,
-    "comment": "Alternativa A. a soma do intervalo A1 a A3. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "comment": "a soma do intervalo A1 a A3..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -275,13 +275,13 @@
     "subject": "Informática",
     "statement": "A autenticação multifator busca:",
     "options": [
-      "adicionar fatores independentes de verificação",
       "substituir senhas por arquivos",
       "eliminar a necessidade de proteção",
-      "permitir compartilhamento de credenciais"
+      "permitir compartilhamento de credenciais",
+      "adicionar fatores independentes de verificação"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. adicionar fatores independentes de verificação. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 3,
+    "comment": "adicionar fatores independentes de verificação..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -290,13 +290,13 @@
     "subject": "Informática",
     "statement": "Um backup é principalmente uma medida para:",
     "options": [
-      "recuperar dados em caso de perda",
       "acelerar o monitor",
       "substituir antivírus",
-      "aumentar resolução da tela"
+      "aumentar resolução da tela",
+      "recuperar dados em caso de perda"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. recuperar dados em caso de perda. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 3,
+    "comment": "recuperar dados em caso de perda..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -305,12 +305,12 @@
     "subject": "Legislação municipal",
     "statement": "Segundo o art. 2º da Lei 7.792/2019, o elemento representado por números romanos que indica a posição vertical na carreira é a:",
     "options": [
-      "Referência",
-      "Categoria",
       "Grau",
-      "Classe"
+      "Classe",
+      "Referência",
+      "Categoria"
     ],
-    "answer": 0,
+    "answer": 2,
     "comment": "Art. 2º, IV: referência é representada por números romanos e indica a posição vertical. Grau é letra; categoria indica posição hierárquica no nível.",
     "source": "MCP — Apostila Lei 7.792/2019, dispositivos citados."
   },
@@ -320,12 +320,12 @@
     "subject": "Legislação municipal",
     "statement": "De acordo com o art. 4º da Lei 7.792/2019, o Nível II — Tático corresponde a qual percentual do efetivo?",
     "options": [
+      "25%",
       "38,5%",
       "60%",
-      "1,5%",
-      "25%"
+      "1,5%"
     ],
-    "answer": 0,
+    "answer": 1,
     "comment": "Art. 4º, II: o Nível II, Tático, corresponde a 38,5% do efetivo e compreende as categorias 5 e 6.",
     "source": "MCP — Apostila Lei 7.792/2019, dispositivos citados."
   },
@@ -350,12 +350,12 @@
     "subject": "Legislação municipal",
     "statement": "Segundo o art. 10 da Lei 7.792/2019, o ingresso na carreira ocorre inicialmente em:",
     "options": [
-      "Nível I, categoria 1, 3ª Classe, grau A",
       "Nível II, categoria 5, grau H",
       "Nível III, categoria 8, grau A",
-      "Qualquer nível conforme experiência"
+      "Qualquer nível conforme experiência",
+      "Nível I, categoria 1, 3ª Classe, grau A"
     ],
-    "answer": 0,
+    "answer": 3,
     "comment": "Art. 10: ingresso exclusivamente como GCM, grau A, categoria 1 (3ª Classe), nível I, mediante concurso público.",
     "source": "MCP — Apostila Lei 7.792/2019, dispositivos citados."
   },
@@ -365,12 +365,12 @@
     "subject": "Legislação municipal",
     "statement": "Conforme o art. 1º do Decreto 44.264/2026, qual das unidades integra o Comando Geral da GCM?",
     "options": [
-      "Núcleo de Controle e Emissão de Porte de Armas",
-      "Inspetoria Ambiental",
       "Seção Técnica de Investigação e Apuração Disciplinar",
-      "Seção Administrativa de Apoio à Ouvidoria"
+      "Seção Administrativa de Apoio à Ouvidoria",
+      "Núcleo de Controle e Emissão de Porte de Armas",
+      "Inspetoria Ambiental"
     ],
-    "answer": 0,
+    "answer": 2,
     "comment": "Art. 1º, alínea C: o Núcleo de Controle e Emissão de Porte de Armas integra o Comando Geral; as demais unidades pertencem a outras estruturas.",
     "source": "MCP — Apostila Decreto 44.264/2026, dispositivos citados."
   },
@@ -380,12 +380,12 @@
     "subject": "Legislação municipal",
     "statement": "Segundo o Decreto 44.264/2026, a Inspetoria Canil integra diretamente a estrutura do:",
     "options": [
+      "Ouvidoria",
       "Subcomando da Guarda Civil Municipal",
       "Gabinete do Secretário",
-      "Departamento de Gestão Administrativa",
-      "Ouvidoria"
+      "Departamento de Gestão Administrativa"
     ],
-    "answer": 0,
+    "answer": 1,
     "comment": "Art. 1º, alínea D, inciso XI: a Inspetoria Canil integra a estrutura do Subcomando.",
     "source": "MCP — Apostila Decreto 44.264/2026, dispositivos citados."
   },
@@ -410,12 +410,12 @@
     "subject": "Legislação municipal",
     "statement": "Segundo o art. 2º, V, do Decreto 44.264/2026, a atuação da Secretaria de Segurança Urbana em segurança viária se dá:",
     "options": [
-      "Mediante convênio com a Autoridade de Trânsito, observadas as normas aplicáveis",
       "Sem observância do Código de Trânsito Brasileiro",
       "Exclusivamente por decisão da Ouvidoria",
-      "Por substituição automática da autoridade estadual"
+      "Por substituição automática da autoridade estadual",
+      "Mediante convênio com a Autoridade de Trânsito, observadas as normas aplicáveis"
     ],
-    "answer": 0,
+    "answer": 3,
     "comment": "Art. 2º, V: a Secretaria deve zelar pela segurança viária conforme CTB e normas vigentes, mediante convênio com a Autoridade de Trânsito.",
     "source": "MCP — Apostila Decreto 44.264/2026, dispositivos citados."
   },
@@ -425,13 +425,13 @@
     "subject": "Direito Penal e Processo Penal",
     "statement": "Segundo o CPP, qualquer do povo poderá prender quem esteja em flagrante delito; as autoridades policiais e seus agentes:",
     "options": [
-      "deverão fazê-lo",
-      "não poderão fazê-lo",
       "dependerão de mandado judicial em todos os casos",
-      "só poderão atuar após denúncia"
+      "só poderão atuar após denúncia",
+      "deverão fazê-lo",
+      "não poderão fazê-lo"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. deverão fazê-lo. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 2,
+    "comment": "deverão fazê-lo..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -440,13 +440,13 @@
     "subject": "Direito Penal e Processo Penal",
     "statement": "O flagrante próprio abrange quem:",
     "options": [
-      "está cometendo a infração penal ou acaba de cometê-la",
-      "é encontrado meses depois sem outros elementos",
       "é apenas suspeito por boato",
-      "é absolvido em sentença definitiva"
+      "é absolvido em sentença definitiva",
+      "está cometendo a infração penal ou acaba de cometê-la",
+      "é encontrado meses depois sem outros elementos"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. está cometendo a infração penal ou acaba de cometê-la. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 2,
+    "comment": "está cometendo a infração penal ou acaba de cometê-la..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -455,13 +455,13 @@
     "subject": "Direito Penal e Processo Penal",
     "statement": "No crime de concussão, o núcleo típico do art. 316 do CP é:",
     "options": [
+      "prometer vantagem a particular",
       "exigir vantagem indevida",
       "solicitar vantagem indevida",
-      "oferecer vantagem indevida",
-      "prometer vantagem a particular"
+      "oferecer vantagem indevida"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. exigir vantagem indevida. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 1,
+    "comment": "exigir vantagem indevida..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -476,7 +476,7 @@
       "destruir documento particular"
     ],
     "answer": 0,
-    "comment": "Alternativa A. solicitar vantagem indevida. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "comment": "solicitar vantagem indevida..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -485,13 +485,13 @@
     "subject": "Direito Penal e Processo Penal",
     "statement": "A cadeia de custódia dos vestígios, conforme o CPP, inicia-se:",
     "options": [
-      "com a preservação do local de crime ou procedimentos em que se detecte vestígio",
       "somente no laboratório",
       "somente na audiência",
-      "após a sentença"
+      "após a sentença",
+      "com a preservação do local de crime ou procedimentos em que se detecte vestígio"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. com a preservação do local de crime ou procedimentos em que se detecte vestígio. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 3,
+    "comment": "com a preservação do local de crime ou procedimentos em que se detecte vestígio..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -500,13 +500,13 @@
     "subject": "Legislações especiais",
     "statement": "O ECA considera criança, em regra, a pessoa:",
     "options": [
-      "até doze anos de idade incompletos",
-      "até dezoito anos completos",
       "entre doze e vinte e um anos",
-      "com qualquer idade"
+      "com qualquer idade",
+      "até doze anos de idade incompletos",
+      "até dezoito anos completos"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. até doze anos de idade incompletos. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 2,
+    "comment": "até doze anos de idade incompletos..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -515,13 +515,13 @@
     "subject": "Legislações especiais",
     "statement": "Segundo a Lei Maria da Penha, a violência doméstica e familiar contra a mulher pode ser:",
     "options": [
+      "apenas praticada por desconhecido",
       "física, psicológica, sexual, patrimonial ou moral",
       "somente física",
-      "somente patrimonial",
-      "apenas praticada por desconhecido"
+      "somente patrimonial"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. física, psicológica, sexual, patrimonial ou moral. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 1,
+    "comment": "física, psicológica, sexual, patrimonial ou moral..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -536,7 +536,7 @@
       "qualquer ato administrativo lícito"
     ],
     "answer": 0,
-    "comment": "Alternativa A. prejudicar outrem ou beneficiar a si ou terceiro, ou agir por mero capricho ou satisfação pessoal. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "comment": "prejudicar outrem ou beneficiar a si ou terceiro, ou agir por mero capricho ou satisfação pessoal..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -545,13 +545,13 @@
     "subject": "Legislações especiais",
     "statement": "A Lei 13.060/2014 trata principalmente:",
     "options": [
-      "do uso de instrumentos de menor potencial ofensivo pelos agentes de segurança pública",
       "de regras de trânsito urbano",
       "do processo eleitoral",
-      "da organização dos tribunais"
+      "da organização dos tribunais",
+      "do uso de instrumentos de menor potencial ofensivo pelos agentes de segurança pública"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. do uso de instrumentos de menor potencial ofensivo pelos agentes de segurança pública. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 3,
+    "comment": "do uso de instrumentos de menor potencial ofensivo pelos agentes de segurança pública..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -560,13 +560,13 @@
     "subject": "Direito Constitucional",
     "statement": "O art. 144 da Constituição estabelece que segurança pública é:",
     "options": [
-      "dever do Estado, direito e responsabilidade de todos",
-      "responsabilidade exclusiva dos municípios",
       "atividade exclusivamente privada",
-      "dever somente do Poder Judiciário"
+      "dever somente do Poder Judiciário",
+      "dever do Estado, direito e responsabilidade de todos",
+      "responsabilidade exclusiva dos municípios"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. dever do Estado, direito e responsabilidade de todos. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 2,
+    "comment": "dever do Estado, direito e responsabilidade de todos..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -575,13 +575,13 @@
     "subject": "Direito Constitucional",
     "statement": "Entre os direitos sociais do art. 6º da Constituição está:",
     "options": [
+      "prisão perpétua",
       "educação",
       "censura prévia",
-      "pena de banimento",
-      "prisão perpétua"
+      "pena de banimento"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. educação. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 1,
+    "comment": "educação..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   },
   {
@@ -590,13 +590,13 @@
     "subject": "Lei 13.022/2014",
     "statement": "Segundo a Lei 13.022/2014, as guardas municipais são instituições de caráter:",
     "options": [
+      "exclusivamente privado",
       "civil, uniformizadas e armadas conforme previsto em lei",
       "militar federal",
-      "judiciário",
-      "exclusivamente privado"
+      "judiciário"
     ],
-    "answer": 0,
-    "comment": "Alternativa A. civil, uniformizadas e armadas conforme previsto em lei. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
+    "answer": 1,
+    "comment": "civil, uniformizadas e armadas conforme previsto em lei..",
     "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
   }
 ]
