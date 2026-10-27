@@ -1,0 +1,602 @@
+[
+  {
+    "id": "2026-10-27-01",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Na frase 'Embora estivesse chovendo, a ronda continuou', a oração introduzida por 'embora' expressa:",
+    "options": [
+      "concessão",
+      "causa",
+      "conclusão",
+      "finalidade"
+    ],
+    "answer": 0,
+    "comment": "concessão..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-02",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Em 'Faz três anos que estudo', o verbo 'fazer' permanece no singular porque:",
+    "options": [
+      "concorda com anos",
+      "é verbo auxiliar",
+      "tem sujeito oculto",
+      "indica tempo decorrido e é impessoal"
+    ],
+    "answer": 3,
+    "comment": "indica tempo decorrido e é impessoal..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-03",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Em 'Os relatórios que chegaram foram analisados', a oração 'que chegaram' é:",
+    "options": [
+      "substantiva subjetiva",
+      "adverbial causal",
+      "adjetiva restritiva",
+      "adjetiva explicativa"
+    ],
+    "answer": 2,
+    "comment": "adjetiva restritiva..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-04",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Assinale a forma correta segundo a norma-padrão:",
+    "options": [
+      "Existia muitas vagas.",
+      "Havia muitos candidatos.",
+      "Haviam muitos candidatos.",
+      "Fazem dois dias."
+    ],
+    "answer": 1,
+    "comment": "Havia muitos candidatos...",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-05",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Em 'O agente assistiu à cerimônia', ocorre crase porque:",
+    "options": [
+      "o verbo exige 'a' e o nome admite artigo 'a'",
+      "todo verbo exige crase",
+      "cerimônia é verbo",
+      "a preposição é facultativa"
+    ],
+    "answer": 0,
+    "comment": "o verbo exige 'a' e o nome admite artigo 'a'..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-06",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Na frase 'O relatório foi elaborado pela equipe', a voz verbal é:",
+    "options": [
+      "ativa",
+      "reflexiva",
+      "passiva sintética",
+      "passiva analítica"
+    ],
+    "answer": 3,
+    "comment": "passiva analítica..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-07",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "O termo 'às normas' em 'respeito às normas' exerce a função de:",
+    "options": [
+      "aposto",
+      "vocativo",
+      "complemento nominal",
+      "sujeito"
+    ],
+    "answer": 2,
+    "comment": "complemento nominal..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-08",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "A substituição de 'porém' por 'portanto' geralmente altera a relação de:",
+    "options": [
+      "finalidade para causa",
+      "oposição para conclusão",
+      "causa para concessão",
+      "adição para condição"
+    ],
+    "answer": 1,
+    "comment": "oposição para conclusão..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-09",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Em 'Precisa-se de agentes', o 'se' funciona como:",
+    "options": [
+      "índice de indeterminação do sujeito",
+      "pronome reflexivo",
+      "partícula apassivadora",
+      "conjunção integrante"
+    ],
+    "answer": 0,
+    "comment": "índice de indeterminação do sujeito..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-10",
+    "date": "2026-10-27",
+    "subject": "Português",
+    "statement": "Assinale a forma adequada:",
+    "options": [
+      "Os documentos seguem anexos.",
+      "Os documentos seguem anexo.",
+      "As agentes estavam meio cansadas? Não, meia cansadas.",
+      "Há bastantes trabalho."
+    ],
+    "answer": 0,
+    "comment": "Os documentos seguem anexos...",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-11",
+    "date": "2026-10-27",
+    "subject": "Matemática",
+    "statement": "Uma equipe percorreu 120 km em 3 horas. A velocidade média foi de:",
+    "options": [
+      "30 km/h",
+      "60 km/h",
+      "360 km/h",
+      "40 km/h"
+    ],
+    "answer": 3,
+    "comment": "40 km/h..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-12",
+    "date": "2026-10-27",
+    "subject": "Matemática",
+    "statement": "Um equipamento de R$ 200 recebeu desconto de 15%. O novo valor é:",
+    "options": [
+      "R$ 150",
+      "R$ 230",
+      "R$ 170",
+      "R$ 185"
+    ],
+    "answer": 2,
+    "comment": "R$ 170..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-13",
+    "date": "2026-10-27",
+    "subject": "Matemática",
+    "statement": "Se 6 agentes atendem 18 ocorrências em certo período, mantendo a produtividade, 10 agentes atenderiam:",
+    "options": [
+      "36",
+      "30",
+      "24",
+      "28"
+    ],
+    "answer": 1,
+    "comment": "30..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-14",
+    "date": "2026-10-27",
+    "subject": "Matemática",
+    "statement": "A média aritmética de 4, 6, 8 e 10 é:",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "28"
+    ],
+    "answer": 0,
+    "comment": "7..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-15",
+    "date": "2026-10-27",
+    "subject": "Matemática",
+    "statement": "Em uma turma de 80 alunos, 25% faltaram. Quantos compareceram?",
+    "options": [
+      "20",
+      "40",
+      "65",
+      "60"
+    ],
+    "answer": 3,
+    "comment": "60..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-16",
+    "date": "2026-10-27",
+    "subject": "Informática",
+    "statement": "Um e-mail que imita um órgão oficial para capturar senhas caracteriza:",
+    "options": [
+      "compactação",
+      "indexação",
+      "phishing",
+      "backup"
+    ],
+    "answer": 2,
+    "comment": "phishing..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-17",
+    "date": "2026-10-27",
+    "subject": "Informática",
+    "statement": "No Windows, a combinação Ctrl+C normalmente serve para:",
+    "options": [
+      "renomear",
+      "copiar",
+      "colar",
+      "recortar"
+    ],
+    "answer": 1,
+    "comment": "copiar..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-18",
+    "date": "2026-10-27",
+    "subject": "Informática",
+    "statement": "Em uma planilha, a fórmula =SOMA(A1:A3) calcula:",
+    "options": [
+      "a soma do intervalo A1 a A3",
+      "a média do intervalo",
+      "o maior valor",
+      "o número de células vazias"
+    ],
+    "answer": 0,
+    "comment": "a soma do intervalo A1 a A3..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-19",
+    "date": "2026-10-27",
+    "subject": "Informática",
+    "statement": "A autenticação multifator busca:",
+    "options": [
+      "substituir senhas por arquivos",
+      "eliminar a necessidade de proteção",
+      "permitir compartilhamento de credenciais",
+      "adicionar fatores independentes de verificação"
+    ],
+    "answer": 3,
+    "comment": "adicionar fatores independentes de verificação..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-20",
+    "date": "2026-10-27",
+    "subject": "Informática",
+    "statement": "Um backup é principalmente uma medida para:",
+    "options": [
+      "acelerar o monitor",
+      "substituir antivírus",
+      "aumentar resolução da tela",
+      "recuperar dados em caso de perda"
+    ],
+    "answer": 3,
+    "comment": "recuperar dados em caso de perda..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-21",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "Segundo o art. 2º da Lei 7.792/2019, o elemento representado por números romanos que indica a posição vertical na carreira é a:",
+    "options": [
+      "Grau",
+      "Classe",
+      "Referência",
+      "Categoria"
+    ],
+    "answer": 2,
+    "comment": "Art. 2º, IV: referência é representada por números romanos e indica a posição vertical. Grau é letra; categoria indica posição hierárquica no nível.",
+    "source": "MCP — Apostila Lei 7.792/2019, dispositivos citados."
+  },
+  {
+    "id": "2026-10-27-22",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "De acordo com o art. 4º da Lei 7.792/2019, o Nível II — Tático corresponde a qual percentual do efetivo?",
+    "options": [
+      "25%",
+      "38,5%",
+      "60%",
+      "1,5%"
+    ],
+    "answer": 1,
+    "comment": "Art. 4º, II: o Nível II, Tático, corresponde a 38,5% do efetivo e compreende as categorias 5 e 6.",
+    "source": "MCP — Apostila Lei 7.792/2019, dispositivos citados."
+  },
+  {
+    "id": "2026-10-27-23",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "Nos termos do art. 6º da Lei 7.792/2019, para indicação ao cargo de Subcomandante, exige-se integrante da carreira:",
+    "options": [
+      "A partir da categoria 6, do nível II, observada a graduação exigida",
+      "Apenas da categoria 8",
+      "A partir da categoria 1, sem graduação",
+      "Exclusivamente da categoria 5"
+    ],
+    "answer": 0,
+    "comment": "Art. 6º, I, na redação apresentada na apostila: Subcomandante a partir da categoria 6, Nível II, com graduação reconhecida pelo MEC.",
+    "source": "MCP — Apostila Lei 7.792/2019, dispositivos citados."
+  },
+  {
+    "id": "2026-10-27-24",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "Segundo o art. 10 da Lei 7.792/2019, o ingresso na carreira ocorre inicialmente em:",
+    "options": [
+      "Nível II, categoria 5, grau H",
+      "Nível III, categoria 8, grau A",
+      "Qualquer nível conforme experiência",
+      "Nível I, categoria 1, 3ª Classe, grau A"
+    ],
+    "answer": 3,
+    "comment": "Art. 10: ingresso exclusivamente como GCM, grau A, categoria 1 (3ª Classe), nível I, mediante concurso público.",
+    "source": "MCP — Apostila Lei 7.792/2019, dispositivos citados."
+  },
+  {
+    "id": "2026-10-27-25",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "Conforme o art. 1º do Decreto 44.264/2026, qual das unidades integra o Comando Geral da GCM?",
+    "options": [
+      "Seção Técnica de Investigação e Apuração Disciplinar",
+      "Seção Administrativa de Apoio à Ouvidoria",
+      "Núcleo de Controle e Emissão de Porte de Armas",
+      "Inspetoria Ambiental"
+    ],
+    "answer": 2,
+    "comment": "Art. 1º, alínea C: o Núcleo de Controle e Emissão de Porte de Armas integra o Comando Geral; as demais unidades pertencem a outras estruturas.",
+    "source": "MCP — Apostila Decreto 44.264/2026, dispositivos citados."
+  },
+  {
+    "id": "2026-10-27-26",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "Segundo o Decreto 44.264/2026, a Inspetoria Canil integra diretamente a estrutura do:",
+    "options": [
+      "Ouvidoria",
+      "Subcomando da Guarda Civil Municipal",
+      "Gabinete do Secretário",
+      "Departamento de Gestão Administrativa"
+    ],
+    "answer": 1,
+    "comment": "Art. 1º, alínea D, inciso XI: a Inspetoria Canil integra a estrutura do Subcomando.",
+    "source": "MCP — Apostila Decreto 44.264/2026, dispositivos citados."
+  },
+  {
+    "id": "2026-10-27-27",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "No Decreto 44.264/2026, a Seção Técnica de Investigação e Apuração Disciplinar pertence à:",
+    "options": [
+      "Corregedoria da Guarda Civil Municipal",
+      "Ouvidoria da Guarda Civil Municipal",
+      "Inspetoria de Trânsito",
+      "Academia de Formação"
+    ],
+    "answer": 0,
+    "comment": "Art. 1º, alínea E, item 1: a seção de investigação e apuração disciplinar integra a Corregedoria.",
+    "source": "MCP — Apostila Decreto 44.264/2026, dispositivos citados."
+  },
+  {
+    "id": "2026-10-27-28",
+    "date": "2026-10-27",
+    "subject": "Legislação municipal",
+    "statement": "Segundo o art. 2º, V, do Decreto 44.264/2026, a atuação da Secretaria de Segurança Urbana em segurança viária se dá:",
+    "options": [
+      "Sem observância do Código de Trânsito Brasileiro",
+      "Exclusivamente por decisão da Ouvidoria",
+      "Por substituição automática da autoridade estadual",
+      "Mediante convênio com a Autoridade de Trânsito, observadas as normas aplicáveis"
+    ],
+    "answer": 3,
+    "comment": "Art. 2º, V: a Secretaria deve zelar pela segurança viária conforme CTB e normas vigentes, mediante convênio com a Autoridade de Trânsito.",
+    "source": "MCP — Apostila Decreto 44.264/2026, dispositivos citados."
+  },
+  {
+    "id": "2026-10-27-29",
+    "date": "2026-10-27",
+    "subject": "Direito Penal e Processo Penal",
+    "statement": "Segundo o CPP, qualquer do povo poderá prender quem esteja em flagrante delito; as autoridades policiais e seus agentes:",
+    "options": [
+      "dependerão de mandado judicial em todos os casos",
+      "só poderão atuar após denúncia",
+      "deverão fazê-lo",
+      "não poderão fazê-lo"
+    ],
+    "answer": 2,
+    "comment": "deverão fazê-lo..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-30",
+    "date": "2026-10-27",
+    "subject": "Direito Penal e Processo Penal",
+    "statement": "O flagrante próprio abrange quem:",
+    "options": [
+      "é apenas suspeito por boato",
+      "é absolvido em sentença definitiva",
+      "está cometendo a infração penal ou acaba de cometê-la",
+      "é encontrado meses depois sem outros elementos"
+    ],
+    "answer": 2,
+    "comment": "está cometendo a infração penal ou acaba de cometê-la..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-31",
+    "date": "2026-10-27",
+    "subject": "Direito Penal e Processo Penal",
+    "statement": "No crime de concussão, o núcleo típico do art. 316 do CP é:",
+    "options": [
+      "prometer vantagem a particular",
+      "exigir vantagem indevida",
+      "solicitar vantagem indevida",
+      "oferecer vantagem indevida"
+    ],
+    "answer": 1,
+    "comment": "exigir vantagem indevida..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-32",
+    "date": "2026-10-27",
+    "subject": "Direito Penal e Processo Penal",
+    "statement": "Na corrupção passiva (art. 317 do CP), um dos núcleos típicos é:",
+    "options": [
+      "solicitar vantagem indevida",
+      "exigir vantagem indevida como único verbo",
+      "subtrair coisa alheia",
+      "destruir documento particular"
+    ],
+    "answer": 0,
+    "comment": "solicitar vantagem indevida..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-33",
+    "date": "2026-10-27",
+    "subject": "Direito Penal e Processo Penal",
+    "statement": "A cadeia de custódia dos vestígios, conforme o CPP, inicia-se:",
+    "options": [
+      "somente no laboratório",
+      "somente na audiência",
+      "após a sentença",
+      "com a preservação do local de crime ou procedimentos em que se detecte vestígio"
+    ],
+    "answer": 3,
+    "comment": "com a preservação do local de crime ou procedimentos em que se detecte vestígio..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-34",
+    "date": "2026-10-27",
+    "subject": "Legislações especiais",
+    "statement": "O ECA considera criança, em regra, a pessoa:",
+    "options": [
+      "entre doze e vinte e um anos",
+      "com qualquer idade",
+      "até doze anos de idade incompletos",
+      "até dezoito anos completos"
+    ],
+    "answer": 2,
+    "comment": "até doze anos de idade incompletos..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-35",
+    "date": "2026-10-27",
+    "subject": "Legislações especiais",
+    "statement": "Segundo a Lei Maria da Penha, a violência doméstica e familiar contra a mulher pode ser:",
+    "options": [
+      "apenas praticada por desconhecido",
+      "física, psicológica, sexual, patrimonial ou moral",
+      "somente física",
+      "somente patrimonial"
+    ],
+    "answer": 1,
+    "comment": "física, psicológica, sexual, patrimonial ou moral..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-36",
+    "date": "2026-10-27",
+    "subject": "Legislações especiais",
+    "statement": "A Lei de Abuso de Autoridade (13.869/2019) exige, para seus crimes, finalidade específica como:",
+    "options": [
+      "prejudicar outrem ou beneficiar a si ou terceiro, ou agir por mero capricho ou satisfação pessoal",
+      "apenas erro material involuntário",
+      "simples discordância de interpretação jurídica",
+      "qualquer ato administrativo lícito"
+    ],
+    "answer": 0,
+    "comment": "prejudicar outrem ou beneficiar a si ou terceiro, ou agir por mero capricho ou satisfação pessoal..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-37",
+    "date": "2026-10-27",
+    "subject": "Legislações especiais",
+    "statement": "A Lei 13.060/2014 trata principalmente:",
+    "options": [
+      "de regras de trânsito urbano",
+      "do processo eleitoral",
+      "da organização dos tribunais",
+      "do uso de instrumentos de menor potencial ofensivo pelos agentes de segurança pública"
+    ],
+    "answer": 3,
+    "comment": "do uso de instrumentos de menor potencial ofensivo pelos agentes de segurança pública..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-38",
+    "date": "2026-10-27",
+    "subject": "Direito Constitucional",
+    "statement": "O art. 144 da Constituição estabelece que segurança pública é:",
+    "options": [
+      "atividade exclusivamente privada",
+      "dever somente do Poder Judiciário",
+      "dever do Estado, direito e responsabilidade de todos",
+      "responsabilidade exclusiva dos municípios"
+    ],
+    "answer": 2,
+    "comment": "dever do Estado, direito e responsabilidade de todos..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-39",
+    "date": "2026-10-27",
+    "subject": "Direito Constitucional",
+    "statement": "Entre os direitos sociais do art. 6º da Constituição está:",
+    "options": [
+      "prisão perpétua",
+      "educação",
+      "censura prévia",
+      "pena de banimento"
+    ],
+    "answer": 1,
+    "comment": "educação..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  },
+  {
+    "id": "2026-10-27-40",
+    "date": "2026-10-27",
+    "subject": "Lei 13.022/2014",
+    "statement": "Segundo a Lei 13.022/2014, as guardas municipais são instituições de caráter:",
+    "options": [
+      "exclusivamente privado",
+      "civil, uniformizadas e armadas conforme previsto em lei",
+      "militar federal",
+      "judiciário"
+    ],
+    "answer": 1,
+    "comment": "civil, uniformizadas e armadas conforme previsto em lei..",
+    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+  }
+]
