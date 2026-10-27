@@ -303,121 +303,121 @@
     "id": "2026-10-27-21",
     "date": "2026-10-27",
     "subject": "Legislação municipal",
-    "statement": "Ao estudar a Lei Municipal 7.792/2019 para uma prova, a conduta mais segura é:",
+    "statement": "Segundo o art. 2º da Lei 7.792/2019, o elemento representado por números romanos que indica a posição vertical na carreira é a:",
     "options": [
-      "conferir a redação vigente do dispositivo exigido",
-      "presumir que leis federais substituem todas as regras locais",
-      "ignorar alterações legislativas",
-      "usar apenas comentários sem consultar a lei"
+      "Referência",
+      "Categoria",
+      "Grau",
+      "Classe"
     ],
     "answer": 0,
-    "comment": "Alternativa A. conferir a redação vigente do dispositivo exigido. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
-    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+    "comment": "Art. 2º, IV: referência é representada por números romanos e indica a posição vertical. Grau é letra; categoria indica posição hierárquica no nível.",
+    "source": "MCP — Apostila Lei 7.792/2019, dispositivos citados."
   },
   {
     "id": "2026-10-27-22",
     "date": "2026-10-27",
     "subject": "Legislação municipal",
-    "statement": "Uma questão menciona competência de órgão municipal. A resposta deve se fundamentar prioritariamente:",
+    "statement": "De acordo com o art. 4º da Lei 7.792/2019, o Nível II — Tático corresponde a qual percentual do efetivo?",
     "options": [
-      "na norma municipal aplicável e vigente",
-      "em analogia com qualquer município",
-      "na opinião do servidor",
-      "em regras de empresa privada"
+      "38,5%",
+      "60%",
+      "1,5%",
+      "25%"
     ],
     "answer": 0,
-    "comment": "Alternativa A. na norma municipal aplicável e vigente. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
-    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+    "comment": "Art. 4º, II: o Nível II, Tático, corresponde a 38,5% do efetivo e compreende as categorias 5 e 6.",
+    "source": "MCP — Apostila Lei 7.792/2019, dispositivos citados."
   },
   {
     "id": "2026-10-27-23",
     "date": "2026-10-27",
     "subject": "Legislação municipal",
-    "statement": "Uma atribuição funcional descrita em lei municipal deve ser interpretada:",
+    "statement": "Nos termos do art. 6º da Lei 7.792/2019, para indicação ao cargo de Subcomandante, exige-se integrante da carreira:",
     "options": [
-      "conforme o texto legal e seus limites",
-      "como autorização irrestrita",
-      "como dispensa de controles",
-      "como regra superior à Constituição"
+      "A partir da categoria 6, do nível II, observada a graduação exigida",
+      "Apenas da categoria 8",
+      "A partir da categoria 1, sem graduação",
+      "Exclusivamente da categoria 5"
     ],
     "answer": 0,
-    "comment": "Alternativa A. conforme o texto legal e seus limites. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
-    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+    "comment": "Art. 6º, I, na redação apresentada na apostila: Subcomandante a partir da categoria 6, Nível II, com graduação reconhecida pelo MEC.",
+    "source": "MCP — Apostila Lei 7.792/2019, dispositivos citados."
   },
   {
     "id": "2026-10-27-24",
     "date": "2026-10-27",
     "subject": "Legislação municipal",
-    "statement": "Uma alteração posterior modifica artigo de lei municipal. Para prova, deve prevalecer:",
+    "statement": "Segundo o art. 10 da Lei 7.792/2019, o ingresso na carreira ocorre inicialmente em:",
     "options": [
-      "a redação vigente na data de referência do edital",
-      "necessariamente a redação original",
-      "a versão mais curta",
-      "o texto de uma postagem sem fonte"
+      "Nível I, categoria 1, 3ª Classe, grau A",
+      "Nível II, categoria 5, grau H",
+      "Nível III, categoria 8, grau A",
+      "Qualquer nível conforme experiência"
     ],
     "answer": 0,
-    "comment": "Alternativa A. a redação vigente na data de referência do edital. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
-    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+    "comment": "Art. 10: ingresso exclusivamente como GCM, grau A, categoria 1 (3ª Classe), nível I, mediante concurso público.",
+    "source": "MCP — Apostila Lei 7.792/2019, dispositivos citados."
   },
   {
     "id": "2026-10-27-25",
     "date": "2026-10-27",
     "subject": "Legislação municipal",
-    "statement": "Um decreto regulamentar municipal pode, em regra:",
+    "statement": "Conforme o art. 1º do Decreto 44.264/2026, qual das unidades integra o Comando Geral da GCM?",
     "options": [
-      "detalhar a execução da lei sem contrariá-la",
-      "revogar a Constituição",
-      "criar crimes sem lei",
-      "suprimir direitos fundamentais"
+      "Núcleo de Controle e Emissão de Porte de Armas",
+      "Inspetoria Ambiental",
+      "Seção Técnica de Investigação e Apuração Disciplinar",
+      "Seção Administrativa de Apoio à Ouvidoria"
     ],
     "answer": 0,
-    "comment": "Alternativa A. detalhar a execução da lei sem contrariá-la. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
-    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+    "comment": "Art. 1º, alínea C: o Núcleo de Controle e Emissão de Porte de Armas integra o Comando Geral; as demais unidades pertencem a outras estruturas.",
+    "source": "MCP — Apostila Decreto 44.264/2026, dispositivos citados."
   },
   {
     "id": "2026-10-27-26",
     "date": "2026-10-27",
     "subject": "Legislação municipal",
-    "statement": "Na hierarquia normativa, decreto municipal deve respeitar:",
+    "statement": "Segundo o Decreto 44.264/2026, a Inspetoria Canil integra diretamente a estrutura do:",
     "options": [
-      "a lei e a Constituição",
-      "apenas comunicados internos",
-      "somente costumes",
-      "qualquer decisão informal"
+      "Subcomando da Guarda Civil Municipal",
+      "Gabinete do Secretário",
+      "Departamento de Gestão Administrativa",
+      "Ouvidoria"
     ],
     "answer": 0,
-    "comment": "Alternativa A. a lei e a Constituição. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
-    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+    "comment": "Art. 1º, alínea D, inciso XI: a Inspetoria Canil integra a estrutura do Subcomando.",
+    "source": "MCP — Apostila Decreto 44.264/2026, dispositivos citados."
   },
   {
     "id": "2026-10-27-27",
     "date": "2026-10-27",
     "subject": "Legislação municipal",
-    "statement": "A atuação administrativa municipal está sujeita ao princípio da:",
+    "statement": "No Decreto 44.264/2026, a Seção Técnica de Investigação e Apuração Disciplinar pertence à:",
     "options": [
-      "legalidade",
-      "vontade pessoal irrestrita",
-      "sigilo absoluto de todos os atos",
-      "dispensa de motivação em qualquer caso"
+      "Corregedoria da Guarda Civil Municipal",
+      "Ouvidoria da Guarda Civil Municipal",
+      "Inspetoria de Trânsito",
+      "Academia de Formação"
     ],
     "answer": 0,
-    "comment": "Alternativa A. legalidade. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
-    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+    "comment": "Art. 1º, alínea E, item 1: a seção de investigação e apuração disciplinar integra a Corregedoria.",
+    "source": "MCP — Apostila Decreto 44.264/2026, dispositivos citados."
   },
   {
     "id": "2026-10-27-28",
     "date": "2026-10-27",
     "subject": "Legislação municipal",
-    "statement": "Ao comparar normas municipais sobre estrutura administrativa, é necessário identificar:",
+    "statement": "Segundo o art. 2º, V, do Decreto 44.264/2026, a atuação da Secretaria de Segurança Urbana em segurança viária se dá:",
     "options": [
-      "qual órgão e qual versão normativa são aplicáveis",
-      "somente o título do documento",
-      "a opinião mais compartilhada",
-      "a norma de outro município"
+      "Mediante convênio com a Autoridade de Trânsito, observadas as normas aplicáveis",
+      "Sem observância do Código de Trânsito Brasileiro",
+      "Exclusivamente por decisão da Ouvidoria",
+      "Por substituição automática da autoridade estadual"
     ],
     "answer": 0,
-    "comment": "Alternativa A. qual órgão e qual versão normativa são aplicáveis. As demais alternativas não atendem ao conceito ou regra exigida no enunciado.",
-    "source": "Questão autoral MCP — revisar fundamento específico antes da divulgação."
+    "comment": "Art. 2º, V: a Secretaria deve zelar pela segurança viária conforme CTB e normas vigentes, mediante convênio com a Autoridade de Trânsito.",
+    "source": "MCP — Apostila Decreto 44.264/2026, dispositivos citados."
   },
   {
     "id": "2026-10-27-29",
